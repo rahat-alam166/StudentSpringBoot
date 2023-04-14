@@ -1,10 +1,11 @@
-package com.genspark.EmployeeSpringBoot;
+package com.genspark.StudentSpringBoot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmployeeSpringBootApplicationTests {
+class StudentSpringBootApplicationTests
+{
 
 	@Test
 	void contextLoads() {
